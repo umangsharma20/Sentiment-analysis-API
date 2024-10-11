@@ -1,0 +1,9 @@
+{
+    "scores": {
+        "compound": 0.5983,
+        "neg": 0.0,
+        "neu": 0.435,
+        "pos": 0.565
+    },
+    "sentiment": "positive"
+}
